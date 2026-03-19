@@ -1,10 +1,3 @@
-# Complete the 'getWays' function below.
-#
-# The function is expected to return a LONG_INTEGER.
-# The function accepts following parameters:
-#  1. INTEGER n
-#  2. LONG_INTEGER_ARRAY c
-
 def getWays(n, c):
     ways = [0]*(n+1)
     
